@@ -67,12 +67,11 @@ React-Native + SpringBoot Microservices
 
 ---
 
-```bash
+---
 
-![ET HLD](https://github.com/user-attachments/assets/33baf7a5-e24d-4198-b2b0-16210f600715)
+# ![ET HLD](https://github.com/user-attachments/assets/33baf7a5-e24d-4198-b2b0-16210f600715)
 
-```
-
+---
 
 
 ## 🧪 Running Locally
