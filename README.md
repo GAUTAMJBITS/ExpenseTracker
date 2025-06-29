@@ -71,7 +71,7 @@ React-Native + SpringBoot Microservices
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/yourusername/expense-tracker-microservices.git
+git clone https://github.com/GAUTAMJBITS/ExpenseTracker.git
 cd expense-tracker-microservices
 
 # Step 2: Start required services
@@ -79,7 +79,7 @@ docker-compose up -d  # (includes MongoDB, Kafka, Kong, services)
 
 # Step 3: Access services
 Kong Gateway: http://localhost:8000
-![ET HLD](https://github.com/user-attachments/assets/d4981d1c-92e3-4fcc-a495-7a79bcd2b4c5)
+![expense tracker HLD](https://github.com/user-attachments/assets/59fe40ec-f04d-4f0f-b5bc-1e212787d0df)
 
 
 
